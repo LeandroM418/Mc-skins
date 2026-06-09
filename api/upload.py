@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 # Configuración de tu Repo (Cámbialo por lo tuyo)
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
-REPO_OWNER = "LeandroMdev"
+REPO_OWNER = "LeandroM418"
 REPO_NAME = "Mc-skins"
 BRANCH = "main"
 
